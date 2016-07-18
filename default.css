@@ -1,0 +1,255 @@
+﻿@media screen and (max-width: 767px) {
+
+body {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+	text-align: center;
+}
+.floater-1 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 98%;
+	float: left;
+	margin-right: 20px;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+	background-color: #808080;
+	margin-left: 10px;
+	color: #FFFFFF;
+}
+.floater-2 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 98%;
+	float: left;
+	box-sizing: border-box;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	background-color: #808080;
+	color: #FFFFFF;
+}
+.floater-3 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 98%;
+	float: left;
+	box-sizing: border-box;
+	background-color: #808080;
+	margin-right: 20px;
+	margin-left: 10px;
+	color: #FFFFFF;
+}
+.sub-header-1 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #d59898;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+.sub-header-2 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #c14543;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+.sub-header-3 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #e5d198;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+p {
+	margin-top: 40px;
+}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+body {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+	text-align: center;
+}
+.floater-1 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 47.9%;
+	float: left;
+	margin-right: 20px;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+	background-color: #808080;
+	margin-left: 10px;
+	color: #FFFFFF;
+}
+.floater-2 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 47.9%;
+	float: left;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+	background-color: #808080;
+	color: #FFFFFF;
+}
+.floater-3 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 98%;
+	float: left;
+	box-sizing: border-box;
+	background-color: #808080;
+	margin-right: 20px;
+	margin-left: 10px;
+	color: #FFFFFF;
+}
+.sub-header-1 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #d59898;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+.sub-header-2 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #c14543;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+.sub-header-3 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #e5d198;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+p {
+	margin-top: 40px;
+}
+}
+
+@media screen and (min-width: 992px) {
+
+body {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+	text-align: center;
+}
+.floater-1 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 31%;
+	float: left;
+	margin-right: 20px;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+	background-color: #808080;
+	margin-left: 20px;
+	color: #FFFFFF;
+}
+.floater-2 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 31%;
+	float: left;
+	margin-right: 20px;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+	background-color: #808080;
+	color: #FFFFFF;
+}
+.floater-3 {
+	border: 1px solid #000000;
+	padding: 4px;
+	width: 31%;
+	float: left;
+	box-sizing: border-box;
+	background-color: #808080;
+	margin-right: 10px;
+	color: #FFFFFF;
+}
+.sub-header-1 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #d59898;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+.sub-header-2 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #c14543;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+.sub-header-3 {
+	width: 86px;
+	position: relative;
+	height: auto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 4px 8px 0px 8px;
+	background-color: #e5d198;
+	float: right;
+	text-align: center;
+	color: #000000;
+}
+p {
+	margin-top: 40px;
+}
+}
